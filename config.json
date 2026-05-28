@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "clusterfonnect",
+        "uuid": 14463344,
+        "checksum": "1weksht"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
